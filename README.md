@@ -10,11 +10,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalluri02002&label=Profile%20views&color=0e75b6&style=flat" alt="kalluri02002" /> </p>
 
-- 🔭 I’m currently working on **Open Source**
+- 🔭 I’m currently working on **Open Source** 
 
 - 👨‍💻 All of my projects are available at [https://63f5170525cb210008ad4fdd--boisterous-lollipop-f3934d.netlify.app/](https://63f5170525cb210008ad4fdd--boisterous-lollipop-f3934d.netlify.app/)
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **react,javascript,redux**
 
 - 📫 How to reach me **kallurinaveen02002@gmail.com**
 
