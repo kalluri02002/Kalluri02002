@@ -1,6 +1,6 @@
 <div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/118670200/229184566-9062a0a8-5de8-424b-9126-831aa73a24b6.gif" alt="Kalluri Naveen"/>
-  <h3 >I am Fullstack Developer</h3>
+  <h3 >I am embedded engineer</h3>
 </div>
 
 
